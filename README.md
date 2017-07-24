@@ -9,6 +9,9 @@ section.
 
 Change log:
 
+2017-07-25: Release of version 2.0.0
+  * Updated for glTF 2.0
+
 2016-06-13: Release of version 0.2.0
   * Added section about vertex skinning
   * Added section about extensions
