@@ -9,6 +9,9 @@ section.
 
 Change log:
 
+2017-10-15: Release of version 2.0.0a
+  * Moved `byteStride` from `accessor` to `bufferView`
+  
 2017-07-25: Release of version 2.0.0
   * Updated for glTF 2.0
 
