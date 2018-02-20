@@ -6,6 +6,8 @@ Releases (as PDF files and PNG images) can be found in the
 [releases](https://github.com/javagl/gltfOverview/releases) 
 section.
 
+A Japanese version of this overview is available
+at [https://github.com/randall2835/gltfOverviewJapanese](https://github.com/randall2835/gltfOverviewJapanese)
 
 Change log:
 
