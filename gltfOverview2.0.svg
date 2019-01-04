@@ -3048,9 +3048,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75899873"
-     inkscape:cx="1695.5512"
-     inkscape:cy="-448.76463"
+     inkscape:zoom="1.0733863"
+     inkscape:cx="2288.4835"
+     inkscape:cy="-545.38799"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -18292,12 +18292,12 @@
          x="2111.2285"
          y="1751.1075"
          style="font-size:12.5px"
-         id="tspan8332">This extension allows the definition of based materials to which no physically based lighting </tspan><tspan
+         id="tspan8330">This extension allows the definition of materials for which no physically based lighting computations </tspan><tspan
          sodipodi:role="line"
          x="2111.2285"
          y="1766.7325"
          style="font-size:12.5px"
-         id="tspan8330">computations should be applied. </tspan></text>
+         id="tspan8568">should be performed. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
