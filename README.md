@@ -11,6 +11,11 @@ at [https://github.com/randall2835/gltfOverviewJapanese](https://github.com/rand
 
 Change log:
 
+2019-01-04: Release of version 2.0.0b
+  * Fixed typo in `accessors` section
+  * Updated extension information and links
+  * Removed Catmull-Rom interpolation type
+  
 2017-10-15: Release of version 2.0.0a
   * Moved `byteStride` from `accessor` to `bufferView`
   
