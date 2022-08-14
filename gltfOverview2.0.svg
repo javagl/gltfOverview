@@ -3048,9 +3048,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26834658"
-     inkscape:cx="1131.0001"
-     inkscape:cy="1071.3757"
+     inkscape:zoom="1.5179975"
+     inkscape:cx="2560.2809"
+     inkscape:cy="1751.3204"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -17641,7 +17641,7 @@
          style="font-size:12.5px;line-height:1.35"
          id="tspan9852">• <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
-   id="tspan10802">KHR_materials_iridescence</tspan>: Models thin-film effects where the hue depends on the viewing angle</tspan><tspan
+   id="tspan10802">KHR_materials_iridescence</tspan>: Models thin-film effects where the hue depends on the viewing angle.</tspan><tspan
          sodipodi:role="line"
          x="2096.4065"
          y="1800.0664"
@@ -17676,7 +17676,7 @@
          style="font-size:12.5px;line-height:1.35"
          id="tspan79862">• <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.35;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
-   id="tspan80248">KHR_material_variants</tspan>: Multiple materials on the same geometry, to be selected at runtime.</tspan><tspan
+   id="tspan80248">KHR_materials_variants</tspan>: Multiple materials on the same geometry, to be selected at runtime.</tspan><tspan
          sodipodi:role="line"
          x="2096.4065"
          y="1884.9341"
