@@ -11,6 +11,9 @@ at [https://github.com/randall2835/gltfOverviewJapanese](https://github.com/rand
 
 Change log:
 
+2022-08-14: Release of version 2.0.0c
+  * Updated extension list to contain short summaries of ratified extensions
+
 2019-01-04: Release of version 2.0.0b
   * Fixed typo in `accessors` section
   * Updated extension information and links
