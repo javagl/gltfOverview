@@ -11,6 +11,9 @@ at [https://github.com/randall2835/gltfOverviewJapanese](https://github.com/rand
 
 Change log:
 
+2022-08-14: Release of version 2.0.0d
+  * Updated extension name to `EXT_materials_variants`
+
 2022-08-14: Release of version 2.0.0c
   * Updated extension list to contain short summaries of ratified extensions
 
