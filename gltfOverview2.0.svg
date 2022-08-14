@@ -3048,9 +3048,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0733863"
-     inkscape:cx="2415.2534"
-     inkscape:cy="1822.7361"
+     inkscape:zoom="0.26834658"
+     inkscape:cx="799.33942"
+     inkscape:cy="333.52391"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -15572,10 +15572,10 @@
          x="551.14575"
          y="1024.6588"
          style="font-size:10px;line-height:1.25"
-         id="tspan9525-7">©2016-2019 Marco Hutter</tspan><tspan
+         id="tspan9525-7">©2016-2022 Marco Hutter</tspan><tspan
          sodipodi:role="line"
          x="551.14575"
-         y="1041.7332"
+         y="1037.1588"
          id="tspan3403-9-4-9"
          style="font-size:10px;line-height:1.25">    www.marco-hutter.de</tspan></text>
     <text
@@ -15612,10 +15612,10 @@
          x="564.62915"
          y="892.45142"
          id="tspan3403-0-0-9-0"
-         style="font-size:12.5px;line-height:1.25">   Version 2.0b</tspan><tspan
+         style="font-size:12.5px;line-height:1.25">   Version 2.0c</tspan><tspan
          sodipodi:role="line"
          x="564.62915"
-         y="908.87628"
+         y="908.07642"
          style="font-size:12.5px;line-height:1.25"
          id="tspan7023-4-0"> glTF version 2.0</tspan></text>
     <text
