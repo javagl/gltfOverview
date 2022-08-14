@@ -3049,8 +3049,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.26834658"
-     inkscape:cx="799.33942"
-     inkscape:cy="333.52391"
+     inkscape:cx="1131.0001"
+     inkscape:cy="1071.3757"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3255,28 +3255,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1399.3376"
-       y="65.482666"
-       id="text3407-5-3-0-5-00-1"><tspan
-         sodipodi:role="line"
-         x="1399.3376"
-         y="65.482666"
-         id="tspan7415"
-         style="font-size:15px;line-height:1.25"> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2787.9128"
-       y="62.245438"
-       id="text7183-1-9-8-7-5"><tspan
-         sodipodi:role="line"
-         x="2787.9128"
-         y="62.245438"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4416px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
-         id="tspan5583"> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1391.6051"
        y="343.96671"
        id="text3407-5-3-0-5-00-1-0-1-5"><tspan
@@ -3306,18 +3284,6 @@
            x="1074.5155"
            y="875.03607" /></flowRegion><flowPara
          id="flowPara5931"
-         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5429"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion5431"><rect
-           id="rect5433"
-           width="560.23126"
-           height="448.185"
-           x="1578.4293"
-           y="-76.901535" /></flowRegion><flowPara
-         id="flowPara5435"
          style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
     <text
        xml:space="preserve"
@@ -3454,19 +3420,6 @@
     <flowRoot
        transform="translate(0,1498)"
        xml:space="preserve"
-       id="flowRoot5925-6"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion5927-1"><rect
-           id="rect5929-8"
-           width="1110.4658"
-           height="705.026"
-           x="1074.5155"
-           y="875.03607" /></flowRegion><flowPara
-         id="flowPara5931-1"
-         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
-    <flowRoot
-       transform="translate(0,1498)"
-       xml:space="preserve"
        id="flowRoot5429-8"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion5431-1"><rect
@@ -3477,19 +3430,6 @@
            y="-76.901535" /></flowRegion><flowPara
          id="flowPara5435-6"
          style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
-    <flowRoot
-       transform="translate(0,1498)"
-       xml:space="preserve"
-       id="flowRoot25804"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion25806"><rect
-           id="rect25808"
-           width="120"
-           height="20"
-           x="30"
-           y="1122.3622" /></flowRegion><flowPara
-         id="flowPara25810"
-         style="font-size:17.5px;line-height:1.25"> </flowPara></flowRoot>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -8697,36 +8637,11 @@
    style="font-size:10px;fill:#000000">Wiki page about skinning in COLLADA:</tspan>      https://www.khronos.org/collada/wiki/Skinning</tspan><tspan
          sodipodi:role="line"
          x="707.90015"
-         y="1960.4152"
-         style="font-size:10px;line-height:1.25;fill:#0000ff"
-         id="tspan8064-1"><tspan
-   id="tspan20319"
-   style="font-size:10px;fill:#000000">Section 4-7 in the COLLADA specification: </tspan>https://www.khronos.org/files/collada_spec_1_5.pdf</tspan><tspan
-         sodipodi:role="line"
-         x="707.90015"
-         y="1980.464"
-         style="font-size:10px;line-height:1.25"
-         id="tspan8082-9"> </tspan><tspan
-         sodipodi:role="line"
-         x="707.90015"
-         y="1999.214"
-         id="tspan4775-5"
-         style="font-size:10px;line-height:1.25"> </tspan><tspan
-         sodipodi:role="line"
-         x="707.90015"
-         y="2017.964"
-         id="tspan4765-7"
-         style="font-size:10px;line-height:1.25"> </tspan><tspan
-         sodipodi:role="line"
-         x="707.90015"
-         y="2036.714"
-         id="tspan4767-1"
-         style="font-size:10px;line-height:1.25"> </tspan><tspan
-         sodipodi:role="line"
-         x="707.90015"
-         y="2055.4639"
+         y="1952.8663"
          id="tspan4769-3"
-         style="font-size:10px;line-height:1.25"> </tspan></text>
+         style="font-size:10px;line-height:1.25">Section 4-7 in the COLLADA specification: <tspan
+   id="tspan6388"
+   style="font-size:10px;line-height:1.25;fill:#0000ff">https://www.khronos.org/files/collada_spec_1_5.pdf</tspan></tspan></text>
     <rect
        style="opacity:1;fill:#e0f0ff;fill-opacity:1;stroke:none;stroke-width:0.99599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11845-3-8-7-0-5"
