@@ -9,6 +9,9 @@ section.
 A Japanese version of this overview is available
 at [https://github.com/randall2835/gltfOverviewJapanese](https://github.com/randall2835/gltfOverviewJapanese)
 
+A Chinese version of this overview is available
+at [https://github.com/leeyeel/gltfOverview-Chinese](https://github.com/leeyeel/gltfOverview-Chinese)
+
 Change log:
 
 2022-08-14: Release of version 2.0.0d
